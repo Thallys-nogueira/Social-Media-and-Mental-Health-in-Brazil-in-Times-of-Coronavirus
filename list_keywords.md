@@ -1,6 +1,6 @@
 # Social Media and Mental Health in Brazil in Times of Coronavirus
 Author: Thallys da Silva Nogueira
-### List of keywords for collecting data on Twitter about anxiety and depression in times of coronavirus.
+### List of keywords for collecting data on Twitter about anxiety and depression in times of coronavirus using terms in the Brazilian Portuguese language..
 
 |Id|Keyword|Category|
 |--------------|-----------------|------------------|
